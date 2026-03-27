@@ -3,10 +3,9 @@
   "decks": [
     {
       "id": "github_test_deck",
-      "name": "1123123牌123123123",
+      "name": "111",
       "description": "塌落1",
       "isVIPOnly": false,
-      "zipPassword": "123",
       "downloadUrl": "https://raw.githubusercontent.com/MaylinXy/oracula-assets/refs/heads/main/text1.zip"
     }
   ]
