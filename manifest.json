@@ -4,7 +4,7 @@
     {
       "id": "github_test_deck",
       "name": "GitHub 测试套牌123123123",
-      "description": "这是从 GitHub 云端拉取的首套卡牌！！！！！！",
+      "description": "塌落1",
       "isVIPOnly": false,
       "zipPassword": "123",
       "downloadUrl": "https://raw.githubusercontent.com/MaylinXy/oracula-assets/refs/heads/main/test1.zip"
