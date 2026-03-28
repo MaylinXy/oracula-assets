@@ -3,8 +3,8 @@
   "decks": [
     {
       "id": "github_test_deck",
-      "name": "111",
-      "description": "塌落1",
+      "name": "阿卡西之眼",
+      "description": "阿卡西塔罗",
       "isVIPOnly": false,
       "downloadUrl": "https://raw.githubusercontent.com/MaylinXy/oracula-assets/refs/heads/main/text1.zip"
     }
